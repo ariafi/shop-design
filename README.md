@@ -3,7 +3,7 @@
 # شرح
 یک وبسایت دیزاین فروشگاهی با HTML CSS JS :) کاملا ریسپانسیو و زیبا و تغییر دادن رنگ در چند ثانیه
 
-[بازدید کردن](https://hoseinfi.github.io/persian-shopping-design/)
+[بازدید کردن](https://hoseinfi.github.io/shop-design/)
 _________________________________________
 # امکانات
 - ریسپانسیو
